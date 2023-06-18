@@ -135,6 +135,7 @@ margin: 30px 0;
 `
 export const Image = styled.img`
 max-width:100%;
+height: 250px;
 transform:translateY(-15%);`
 
 

@@ -64,7 +64,7 @@ export default function Header() {
         </Content>
         <Right>
           <ImageContainer>
-            <Image src="images/photo1.png"></Image>
+            <Image src="images/3d035f694e.jpeg" alt="my-photo"></Image>
           </ImageContainer>
         </Right>
       </Wrapper>
